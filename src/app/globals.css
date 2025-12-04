@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root,
+[data-theme="brand-a"] {
+  /* Brand A - Blue */
+  --brand-primary: #3b82f6;
+  --brand-primary-dark: #2563eb;
+  --brand-primary-light: #60a5fa;
+  --brand-background: #f0f9ff;
+  --brand-background-gradient: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 50%, #ffffff 100%);
+  --brand-text: #1e293b;
+  --brand-text-light: #64748b;
+  --brand-secondary: #60a5fa;
+  --brand-accent: #0ea5e9;
+  --brand-surface: #ffffff;
+  --brand-border: #e0f2fe;
+  --brand-shadow: rgba(59, 130, 246, 0.1);
+}
+
+[data-theme="brand-b"] {
+  /* Brand B - Purple */
+  --brand-primary: #a855f7;
+  --brand-primary-dark: #9333ea;
+  --brand-primary-light: #c084fc;
+  --brand-background: #faf5ff;
+  --brand-background-gradient: linear-gradient(135deg, #faf5ff 0%, #f3e8ff 50%, #ffffff 100%);
+  --brand-text: #1e293b;
+  --brand-text-light: #64748b;
+  --brand-secondary: #c084fc;
+  --brand-accent: #9333ea;
+  --brand-surface: #ffffff;
+  --brand-border: #f3e8ff;
+  --brand-shadow: rgba(168, 85, 247, 0.1);
+}
+
+[data-theme="brand-c"] {
+  /* Brand C - Orange */
+  --brand-primary: #f97316;
+  --brand-primary-dark: #ea580c;
+  --brand-primary-light: #fb923c;
+  --brand-background: #fff7ed;
+  --brand-background-gradient: linear-gradient(135deg, #fff7ed 0%, #ffedd5 50%, #ffffff 100%);
+  --brand-text: #1e293b;
+  --brand-text-light: #64748b;
+  --brand-secondary: #fb923c;
+  --brand-accent: #ea580c;
+  --brand-surface: #ffffff;
+  --brand-border: #ffedd5;
+  --brand-shadow: rgba(249, 115, 22, 0.1);
+}
+
+body {
+  background: var(--brand-background-gradient);
+  background-attachment: fixed;
+  color: var(--brand-text);
+  transition: background 0.3s ease, color 0.3s ease;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  min-height: 100vh;
+}
+
