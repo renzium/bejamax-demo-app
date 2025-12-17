@@ -1,0 +1,62 @@
+Subject: Frontend Developer Application - Parallax Carousel Demo Ready
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer and Designer position. I understand the critical importance of the parallax scrolling carousel as the core differentiator of your platform, and I have prepared a working demo that demonstrates my ability to execute this requirement precisely.
+
+Parallax Carousel Demo - Live and Ready for Review
+
+I have created a clean, working demonstration of the vertical scroll parallax carousel with the exact layer speeds you specified:
+- Cars and trucks: 0.5x
+- Buildings: 1.0x (normal scroll)
+- Airplane: 0.5x
+- Background skyline: 0.3x
+
+Live Demo: https://parallax-carousel-demo.vercel.app/
+GitHub Repository: https://github.com/renzium/parallax-carousel-demo
+
+The demo is built with React/Next.js, uses CSS3 transforms for smooth performance, and follows your design philosophy: clean, simple, and readable with the parallax effect as the focus—no heavy animations. It's deployed on Vercel and ready for immediate review.
+
+Technical Alignment
+
+I have extensive experience with your preferred tech stack:
+- Frontend: React.js, Next.js, Vue.js, TypeScript, CSS3 with Flexbox/Grid
+- Routing: React Router, Vue Router
+- State Management: React Context API, Vuex
+- Backend: Node.js with Express, PostgreSQL, AWS S3
+- Integrations: Stripe payments, QR code generation (qrcode.js), image upload handling
+
+Project Approach
+
+I understand the tight timeline (MVP launch target: January 17) and the need for:
+- Fast iteration and clear communication
+- Responsiveness and reliability
+- Long-term collaboration potential
+- First-week deliverable: parallax carousel + landing page
+
+The compensation range ($10–$15/hour) and project scope (100–135 hours) work well for me. I am available for a short video call to discuss the project further and walk through the live demo.
+
+Additional Information
+
+- Resume/CV: My detailed CV is attached, which includes this Parallax Carousel Demo project in the Key Projects section, along with other relevant frontend development experience.
+- Portfolio: www.renzium.com
+- Code Quality: The GitHub repository is open for review, showcasing clean component architecture, TypeScript implementation, and production-ready code.
+
+I am ready to move quickly and would appreciate the opportunity to show you the working demo. I believe my experience with modern frontend development, attention to visual detail, and ability to work under tight deadlines make me a strong fit for this role.
+
+Thank you for considering my application. I look forward to hearing from you.
+
+Best regards,
+Lawrence Ughonu
+lawrenceughonu@gmail.com
+www.renzium.com
+LinkedIn: linkedin.com/in/lawrence-ughonu
+GitHub: github.com/renzium
+
+---
+Attachments:
+- CV (cv.html) - See "Parallax Carousel Demo" in Key Projects section
+
+Links:
+- Live Demo: https://parallax-carousel-demo.vercel.app/
+- GitHub Repository: https://github.com/renzium/parallax-carousel-demo
